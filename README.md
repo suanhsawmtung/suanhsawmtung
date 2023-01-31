@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suanh Sawm Tung</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **Typescript, Tailwind css and Nuxt.js.**
+- 🌱 I’m currently learning **Typescript, Tailwind css and React.js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suanhsawmtung](https://github.com/suanhsawmtung)
 
