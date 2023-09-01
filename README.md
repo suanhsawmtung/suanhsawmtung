@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **suanhsawmtung1999@gmail.com**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suanhsawmtung&show_icons=true&theme=tokyonight)
+
 
 ### Connect with me:
 <p align="left">
@@ -28,5 +30,3 @@
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=postman,vscode,vite,git,github)](https://skillicons.dev)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suanhsawmtung&show_icons=true&theme=tokyonight)
