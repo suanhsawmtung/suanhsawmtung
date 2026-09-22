@@ -1,32 +1,60 @@
 <h1 align="center">Hi 👋, I'm Suanh Sawm Tung</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Full-Stack Web & Mobile Developer</h3>
 
-- 🌱 I’m currently learning **Node.js, Express.js and React.js.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/suanhsawmtung](https://github.com/suanhsawmtung)
-
-- 💬 Ask me about **Laravel, Vue**
-
-- 📫 How to reach me **suanhsawmtung1999@gmail.com**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suanhsawmtung&show_icons=true&theme=tokyonight)
-
-
-### Connect with me:
-<p align="left">
-<a href="https://fb.com/augustine.kyawthet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="augustine.kyawthet" height="30" width="40" /></a>
-<a href="https://instagram.com/joy_boy_sst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy_boy_sst" height="30" width="40" /></a>
+<p align="center">
+  You can call me Augustine if you find my name difficult to pronounce.<br>
+  I build modern web and mobile applications using React, Next.js, React Native, Node.js, and PostgreSQL.
 </p>
 
 
-### What I use:
+<h1 align="start">💻 About Me</h1>
 
-#### Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,vue,jquery&perline=4)](https://skillicons.dev)
+<p align="start">
+  My academic journey began in Petroleum Engineering at Thanlyin Technological University in Myanmar. My studies were interrupted in 2020 after completing the first semester of my fifth year, following nationwide university closures during the COVID-19 pandemic.
 
-#### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
+During that period, I developed a growing interest in programming and software development. Over time, that interest became a serious career direction. I began developing web applications, working on freelance projects, and eventually joining professional software development teams. As my experience and interest in software continued to grow, I chose to pursue software development as my long-term career rather than returning to Petroleum Engineering.
 
-#### Tools
-[![My Skills](https://skillicons.dev/icons?i=postman,vscode,vite,git,github)](https://skillicons.dev)
+Today, I work across frontend and backend development, building practical web and mobile applications. I am now interested in pursuing a Bachelor's degree in Software Engineering abroad to strengthen my foundations in software engineering while continuing to grow through practical development.
+</p>
 
+
+<h1 align="start">🛠️ Tech Stack</h1>
+
+<h5 align="start">Languages</h5>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
+
+<h5 align="start">Frontend</h5>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+</p>
+
+<h5 align="start">Backend</h5>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+</p>
+
+<h5 align="start">Mobile</h5>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+</p>
+
+<h5 align="start">Databases</h5>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<h5 align="start">Tools</h5>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
