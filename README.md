@@ -7,7 +7,7 @@
 </p>
 
 
-<h1 align="start">💻 About Me</h1>
+<h3 align="start">💻 About Me</h3>
 
 <p align="start">
   My academic journey began in Petroleum Engineering at Thanlyin Technological University in Myanmar. My studies were interrupted in 2020 after completing the first semester of my fifth year, following nationwide university closures during the COVID-19 pandemic.
@@ -18,7 +18,7 @@ Today, I work across frontend and backend development, building practical web an
 </p>
 
 
-<h1 align="start">🛠️ Tech Stack</h1>
+<h3 align="start">🛠️ Tech Stack</h3>
 
 <h5 align="start">Languages</h5>
 <p>
@@ -58,3 +58,12 @@ Today, I work across frontend and backend development, building practical web an
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
+
+<h3 align="start">🚀 Featured Projects</h3>
+
+<ul>
+<li>
+<link href="https://azue-perfume-house.netlify.app/">Azue Perfume House</link>
+<p align="start">A full-stack e-commerce application for selling authentic perfumes online. It includes perfume browsing and search, product variants, shopping cart, wishlist, customer accounts, orders, reviews, blogs, and an administration panel for managing products, inventory, customers, orders, and other store operations.</p>
+</li>
+</ul>
