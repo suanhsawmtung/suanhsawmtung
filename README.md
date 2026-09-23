@@ -22,31 +22,6 @@
 
 <h3 align="start">🛠️ Tech Stack</h3>
 
-<style>
-  table {
-    margin-left: 34px;
-  }
-  table tr:nth-child(even) {
-    background-color: #3d444d;
-  }
-  tr td {
-    font-size: 12px;
-    font-weight: 500;
-  }
-  tr td:first-child {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    padding-right: 20px;
-  }
-  tr img {
-    height: 18px;
-    margin-top: 8px;
-  }
-  span {
-    font-size: 12px
-  }
-</style>
-
 <table border="1" cellpadding="8" cellspacing="0">
     <tr>
       <td>Category</td>
@@ -115,34 +90,36 @@
 
 <h3 align="start">💼 Professional Experience</h3>
 <ul>
-    <li style="padding-bottom: 16px; border-bottom: 1px solid #3d444d">
+    <li>
         Software Developer &nbsp; — &nbsp; 株式会社 革新技術
         <div align="start">
-            <span>Dec 2024 - Jul 2025</span>
+            <small>Dec 2024 - Jul 2025</small>
             <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
-            <span>Full-time</span>
+            <small>Full-time</small>
             <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
-            <span>Remote</span>
+            <small>Remote</small>
         </div>
     </li>
-    <li style="padding-top: 16px; padding-bottom: 16px; border-bottom: 1px solid #3d444d">
+    <br/>
+    <li>
         Web Developer &nbsp; — &nbsp; Creative Coder Myanmar
         <div align="start">
-            <span>Aug 2023 - Mar 2024</span>
+            <small>Aug 2023 - Mar 2024</small>
             <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
-            <span>Full-time</span>
+            <small>Full-time</small>
             <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
-            <span>On-site</span>
+            <small>On-site</small>
         </div>
     </li>
-    <li style="padding-top: 16px;">
+    <br/>
+    <li>
         Web Developer &nbsp; — &nbsp; Freelance
         <div align="start">
-            <span>Feb 2023 - Jun 2023</span>
+            <small>Feb 2023 - Jun 2023</small>
             <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
-            <span>Full-time</span>
+            <small>Full-time</small>
             <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
-            <span>Remote</span>
+            <small>Remote</small>
         </div>
     </li>
 </ul>
@@ -156,14 +133,6 @@
 - **Data Structures & Algorithms** — Learning through articles, tutorials, and practice.
 
 - **NestJS** — Planning to start learning soon.
-
-<br/>
-
-<h3 align="start">📊 GitHub Stats</h3>
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suanhsawmtung&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suanhsawmtung&theme=github_dark)
 
 <br/>
 
