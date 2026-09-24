@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suanh Sawm Tung</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer</h3>
+<h3 align="center">Software Developer · Full-Stack Web & Mobile</h3>
 
 <p align="center">
   You can call me Augustine if you find my name difficult to pronounce.<br>
