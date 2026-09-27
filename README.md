@@ -113,7 +113,7 @@
     </li>
     <br/>
     <li>
-        Web Developer &nbsp; — &nbsp; Freelance
+        Web Developer &nbsp; — &nbsp; Creative Crus
         <div align="start">
             <small>Feb 2023 - Jun 2023</small>
             <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
